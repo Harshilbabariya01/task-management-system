@@ -1,0 +1,139 @@
+{
+  "employee": [
+    {
+      "name": "Harshil Babariya",
+      "email": "harshilbabariya01@gmail.com",
+      "phone": "6353817931",
+      "technology": "React Js",
+      "position": "Self-Employee",
+      "code": "11",
+      "id": 1
+    },
+    {
+      "name": "dfg",
+      "email": "dfgdh@ef.dfg",
+      "phone": "5566688741",
+      "technology": "Python",
+      "position": "Self-Employee",
+      "code": "6",
+      "id": 2
+    },
+    {
+      "name": "ghkjghjk",
+      "email": "ftgu@gg.gkjgh",
+      "phone": "8874459685",
+      "technology": "Php",
+      "position": "Contract-Base",
+      "code": "12",
+      "id": 3
+    },
+    {
+      "name": "df",
+      "email": "dsf",
+      "phone": "43534535345",
+      "technology": "QA",
+      "position": "Contract-Base",
+      "code": "44",
+      "id": 4
+    },
+    {
+      "name": "tt",
+      "email": "tt@gmail.com",
+      "phone": "6351142585",
+      "technology": "Python",
+      "position": "Contract-Base",
+      "code": "33",
+      "id": 5
+    }
+  ],
+  "project": [
+    {
+      "title": "Jera",
+      "incharge": "Nirav Patel",
+      "client": "Manan Shah",
+      "description": "system",
+      "type": "Web App",
+      "status": "Active",
+      "charge": "800",
+      "start": "2022-05-01",
+      "priority": "High",
+      "end": "2022-05-21",
+      "rate": "78",
+      "id": 1
+    },
+    {
+      "title": "TMS",
+      "incharge": "Jinal Pandey",
+      "client": "Kajal Arora",
+      "description": "managing system",
+      "type": "Web App",
+      "status": "Inactive",
+      "charge": "75.88",
+      "start": "2022-05-07",
+      "end": "2022-05-08",
+      "priority": "High",
+      "rate": "20",
+      "id": 2
+    },
+    {
+      "title": "dfgh",
+      "incharge": "Rakesh Shah",
+      "client": "dfgh",
+      "description": "fghfgh",
+      "type": "NFTs",
+      "status": "Active",
+      "charge": "555",
+      "start": "2022-06-04",
+      "priority": "Low",
+      "end": "2022-06-05",
+      "rate": "33",
+      "id": 3
+    }
+  ],
+  "task": [
+    {
+      "title": "Jera",
+      "incharge": "Nirav Patel",
+      "description": "system",
+      "date": "2022-05-08",
+      "status": "On Hold",
+      "type": "Task",
+      "assign_to1": "Harshil Babariya",
+      "assign_to2": "dfg",
+      "id": 1
+    },
+    {
+      "title": "TMS",
+      "incharge": "Harshil Patel",
+      "description": "managing system",
+      "date": "2022-05-08",
+      "status": "Pending",
+      "type": "Bug",
+      "assign_to1": "ghkjghjk",
+      "assign_to2": "df",
+      "id": 2
+    },
+    {
+      "title": "dddd",
+      "incharge": "ABCD",
+      "description": "dddd",
+      "date": "2022-04-26",
+      "status": "InProgress",
+      "type": "Task",
+      "assign_to1": "ghkjghjk",
+      "assign_to2": "Harshil Babariya",
+      "id": 3
+    },
+    {
+      "title": "hj",
+      "incharge": "hj",
+      "description": "hj",
+      "date": "2021-05-05",
+      "status": "Pending",
+      "type": "Bug",
+      "assign_to1": "Harshil Babariya",
+      "assign_to2": "tt",
+      "id": 4
+    }
+  ]
+}
